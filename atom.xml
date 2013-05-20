@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Test Blog]]></title>
+  <link href="http://lambdu.github.io/atom.xml" rel="self"/>
+  <link href="http://lambdu.github.io/"/>
+  <updated>2013-05-20T14:51:01-07:00</updated>
+  <id>http://lambdu.github.io/</id>
+  <author>
+    <name><![CDATA[Alec P]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
